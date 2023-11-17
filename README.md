@@ -1,7 +1,7 @@
 # movie_budget_and_revenue_analysis
 This is a Exploratory Data Analysis project which I conducted over movie budget and revenue.
 
-### Outcomes of this Analysis are-
+<h1>Outcomes of this Analysis are-</h1> 
 
 movie budget and revenue analysis:
 In this data science project, I tried to analyse a movie dataset to see what patterns we can uncover in the movie budget and its revenue and what we can learn about the movies in general.
