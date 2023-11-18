@@ -1,4 +1,6 @@
 # movie_budget_and_revenue_analysis
+![kq7hrEh](https://github.com/Taha0229/movie_budget_and_revenue_analysis/assets/113607983/ec354334-eadd-4192-a867-8dcdd054f5be)
+
 This is a Exploratory Data Analysis project which I conducted over movie budget and revenue.
 
 <h1>Outcomes of this Analysis are-</h1> 
@@ -32,9 +34,14 @@ Separate the "old" (before 1969) and "New" (1970s onwards) Films
 2.	How many films were released prior to 1970?
 3.	What was the most expensive film made prior to 1970?
 
+![download](https://github.com/Taha0229/movie_budget_and_revenue_analysis/assets/113607983/66aeb3c4-c614-4fab-82e6-599dd85a6909)
+
 **Regression Plots**
 1.	Do our data points for the new films align better or worse with the linear regression than for our older films?
+   ![download (1)](https://github.com/Taha0229/movie_budget_and_revenue_analysis/assets/113607983/6bb62fe6-3ddf-4c55-8ba5-d2532efc1435)
+
 2.	Roughly how much would a film with a budget of $150 million make according to the regression line?
+![download (2)](https://github.com/Taha0229/movie_budget_and_revenue_analysis/assets/113607983/e1d148f2-460e-4cdd-9484-3ae926a40b69)
 
 **Create a simple regression model for movie predicting movies’ revenue**
 
